@@ -13,8 +13,8 @@ import ResultadosPorMesModule from './modules/ResultadosPorMesModule';
 import ScoringModule from './modules/ScoringModule';
 
 // Import utilities
-import { STATE_CATEGORIES, COUNTRIES, CSV_SAMPLE_URL } from '../Utils/constants';
-import { processRawCSVData, validateCSVData, normalizeFieldNames, identifyRealAreas, isValidEpic } from '../Utils/dataProcessing';
+import { STATE_CATEGORIES, COUNTRIES, CSV_SAMPLE_URL } from './utils/constants';
+import { processRawCSVData, validateCSVData, normalizeFieldNames, identifyRealAreas, isValidEpic } from './utils/dataProcessing';
 
 // Loading Progress Component
 const LoadingProgress = ({ progress, message }) => (
