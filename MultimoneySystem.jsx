@@ -1,4 +1,4 @@
-import React, { useState, useMemo, useCallback, useEffect } from 'react';
+import React, { useState, useMemo, useCallback } from 'react';
 import { Upload, FileText, X, Download, RefreshCw, AlertTriangle, CheckCircle, Users, TrendingUp, Calendar, Target, BarChart3, Zap, Brain, ExternalLink, Filter } from 'lucide-react';
 import Papa from 'papaparse';
 
