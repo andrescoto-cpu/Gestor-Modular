@@ -1,6 +1,0 @@
-Key,Summary,Status,Country,Epic,Area,Assignee,Responsable Dev,Priority,Start Date,End Date,UAT Start,UAT End,Prod Date,Created Date
-MM-001,Implementación de pasarela de pagos,In Progress,Argentina,Pagos Digitales,Pagos,María López,Carlos Pérez,High,2023-07-01,2023-08-30,2023-08-10,2023-08-20,,2023-06-15
-MM-002,Optimización de onboarding,Done,Chile,Onboarding Digital,Experiencia,Juan García,Laura Gómez,Medium,2023-04-10,2023-05-25,2023-05-01,2023-05-15,2023-05-25,2023-03-28
-MM-003,Automatización de reportes,In Review,Perú,BI Estratégico,Inteligencia,Belén Ríos,Daniel Soto,Highest,2023-05-05,2023-07-15,2023-07-01,2023-07-10,,2023-04-20
-MM-004,Lanzamiento app mobile,Done,México,Expansión Mobile,Desarrollo,Andrés Martínez,,High,2022-11-01,2023-01-30,2023-01-05,2023-01-20,2023-02-05,2022-09-18
-MM-005,Integración con CRM,To Do,Colombia,Integraciones,Alianzas,,Patricia Torres,Medium,,,2023-09-05,2023-09-20,,2023-07-11
